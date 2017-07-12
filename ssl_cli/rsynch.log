@@ -1,0 +1,1326 @@
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+ssl_data.txt
+
+sent 119 bytes  received 547 bytes  1332.00 bytes/sec
+total size is 60707  speedup is 91.15
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+Wed Mar 15 15:01:54 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Wed Mar 15 15:04:13 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Wed Mar 15 15:04:20 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Wed Mar 15 15:10:11 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:23:37 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:26:01 IST 2017
+
+sent 10 bytes  received 12 bytes  44.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:28:24 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:30:33 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 92 bytes  received 553 bytes  430.00 bytes/sec
+total size is 1  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:32:38 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 239 bytes  received 37 bytes  184.00 bytes/sec
+total size is 363  speedup is 1.32
+==============================================================================================
+
+
+Thu Mar 16 19:32:52 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Thu Mar 16 19:32:54 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  250.00 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Thu Mar 16 19:32:55 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Thu Mar 16 19:32:57 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  250.00 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Thu Mar 16 19:34:18 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:38:49 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Thu Mar 16 19:40:37 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Fri Mar 17 18:38:10 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Fri Mar 17 18:39:21 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  16.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Fri Mar 17 18:43:11 IST 2017
+==============================================================================================
+
+
+Fri Mar 17 18:43:53 IST 2017
+==============================================================================================
+
+
+Fri Mar 17 18:44:25 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 94 bytes  received 37 bytes  262.00 bytes/sec
+total size is 363  speedup is 2.77
+==============================================================================================
+
+
+Fri Mar 17 18:44:32 IST 2017
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+==============================================================================================
+
+
+Fri Mar 17 18:46:12 IST 2017
+sending incremental file list
+data/
+data/ssl_data.txt
+
+sent 255 bytes  received 35 bytes  193.33 bytes/sec
+total size is 363  speedup is 1.25
+==============================================================================================
+
+
+Fri Mar 17 18:48:37 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+
+sent 91 bytes  received 40 bytes  87.33 bytes/sec
+total size is 363  speedup is 2.77
+==============================================================================================
+
+
+Fri Mar 17 18:50:13 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Fri Mar 17 18:50:24 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Fri Mar 17 21:25:39 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+
+sent 91 bytes  received 40 bytes  87.33 bytes/sec
+total size is 363  speedup is 2.77
+==============================================================================================
+
+
+Fri Mar 17 21:29:40 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Fri Mar 17 21:38:25 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  250.00 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Fri Mar 17 21:38:52 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  250.00 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Sat Mar 18 19:40:34 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Sat Mar 18 19:41:36 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Sat Mar 18 19:42:48 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Sat Mar 18 19:44:01 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 261 bytes  received 37 bytes  198.67 bytes/sec
+total size is 945  speedup is 3.17
+==============================================================================================
+
+
+Sat Mar 18 19:44:03 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 105 bytes  received 43 bytes  98.67 bytes/sec
+total size is 1527  speedup is 10.32
+==============================================================================================
+
+
+Sat Mar 18 19:46:48 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 96 bytes  received 49 bytes  96.67 bytes/sec
+total size is 95  speedup is 0.66
+==============================================================================================
+
+
+Sat Mar 18 19:47:52 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 236 bytes  received 37 bytes  546.00 bytes/sec
+total size is 363  speedup is 1.33
+==============================================================================================
+
+
+Sat Mar 18 19:48:39 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Sat Mar 18 19:52:23 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  83.33 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+
+
+Sat Mar 18 20:01:54 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 88 bytes  received 37 bytes  250.00 bytes/sec
+total size is 363  speedup is 2.90
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Sat Mar 18 20:31:45 IST 2017
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Sat Mar 18 20:32:20 IST 2017
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1019 bytes  received 31 bytes  2100.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Sat Mar 18 20:33:01 IST 2017
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1020 bytes  received 31 bytes  2102.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Sat Mar 18 20:35:57 IST 2017
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1019 bytes  received 31 bytes  2100.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Sat Mar 18 20:37:01 IST 2017
+sending incremental file list
+./
+csr_request_data.txt
+node01.myhost.local.crt
+
+sent 1118 bytes  received 53 bytes  780.67 bytes/sec
+total size is 1661  speedup is 1.42
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Sat Mar 18 20:37:47 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+
+sent 1085 bytes  received 46 bytes  2262.00 bytes/sec
+total size is 1661  speedup is 1.47
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Sat Mar 18 20:40:06 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+
+sent 1085 bytes  received 46 bytes  2262.00 bytes/sec
+total size is 1661  speedup is 1.47
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1021 bytes  received 31 bytes  2104.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Sat Mar 18 20:43:30 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+
+sent 1055 bytes  received 46 bytes  2202.00 bytes/sec
+total size is 1661  speedup is 1.51
+==============================================================================================
+
+
+Sat Mar 18 20:44:14 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 266 bytes  received 37 bytes  606.00 bytes/sec
+total size is 1661  speedup is 5.48
+==============================================================================================
+
+
+Sat Mar 18 20:52:00 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 116 bytes  received 37 bytes  306.00 bytes/sec
+total size is 1661  speedup is 10.86
+==============================================================================================
+
+
+Wed Mar 22 10:45:01 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 116 bytes  received 37 bytes  306.00 bytes/sec
+total size is 1661  speedup is 10.86
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1020 bytes  received 31 bytes  2102.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Wed Mar 22 10:49:44 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+
+sent 1054 bytes  received 46 bytes  733.33 bytes/sec
+total size is 1661  speedup is 1.51
+==============================================================================================
+
+
+Wed Mar 22 10:50:10 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 267 bytes  received 37 bytes  608.00 bytes/sec
+total size is 1661  speedup is 5.46
+==============================================================================================
+
+
+Wed Mar 22 11:00:58 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 116 bytes  received 37 bytes  306.00 bytes/sec
+total size is 1661  speedup is 10.86
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Wed Mar 22 11:01:30 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+
+sent 1056 bytes  received 46 bytes  2204.00 bytes/sec
+total size is 1661  speedup is 1.51
+==============================================================================================
+
+
+Wed Mar 22 11:01:43 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 266 bytes  received 37 bytes  606.00 bytes/sec
+total size is 1661  speedup is 5.48
+==============================================================================================
+sending incremental file list
+node06.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Wed Mar 22 11:14:02 IST 2017
+sending incremental file list
+./
+node06.myhost.local.crt
+
+sent 1092 bytes  received 34 bytes  750.67 bytes/sec
+total size is 2959  speedup is 2.63
+==============================================================================================
+sending incremental file list
+node03.myhost.local.crt
+
+sent 1018 bytes  received 31 bytes  2098.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Wed Mar 22 11:14:19 IST 2017
+sending incremental file list
+./
+node03.myhost.local.crt
+
+sent 1116 bytes  received 34 bytes  2300.00 bytes/sec
+total size is 4257  speedup is 3.70
+==============================================================================================
+sending incremental file list
+node05.myhost.local.crt
+
+sent 1020 bytes  received 31 bytes  2102.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Wed Mar 22 11:14:25 IST 2017
+sending incremental file list
+./
+node05.myhost.local.crt
+
+sent 1142 bytes  received 34 bytes  784.00 bytes/sec
+total size is 5555  speedup is 4.72
+==============================================================================================
+
+
+Wed Mar 22 11:14:34 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  482.00 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+
+
+Wed Mar 22 12:05:18 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  482.00 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Wed Mar 22 12:08:21 IST 2017
+sending incremental file list
+
+sent 167 bytes  received 12 bytes  358.00 bytes/sec
+total size is 5555  speedup is 31.03
+==============================================================================================
+
+
+Wed Mar 22 12:09:16 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  482.00 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+sending incremental file list
+node06.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Wed Mar 22 12:17:08 IST 2017
+sending incremental file list
+./
+node06.myhost.local.crt
+
+sent 1148 bytes  received 46 bytes  796.00 bytes/sec
+total size is 5555  speedup is 4.65
+==============================================================================================
+
+
+Wed Mar 22 12:17:25 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 208 bytes  received 37 bytes  163.33 bytes/sec
+total size is 5555  speedup is 22.67
+==============================================================================================
+
+
+Wed Mar 22 12:20:38 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 208 bytes  received 37 bytes  163.33 bytes/sec
+total size is 5555  speedup is 22.67
+==============================================================================================
+
+
+Wed Mar 22 12:26:56 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 208 bytes  received 37 bytes  163.33 bytes/sec
+total size is 5555  speedup is 22.67
+==============================================================================================
+sending incremental file list
+node05.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Wed Mar 22 12:28:41 IST 2017
+sending incremental file list
+./
+node05.myhost.local.crt
+
+sent 1144 bytes  received 46 bytes  2380.00 bytes/sec
+total size is 5555  speedup is 4.67
+==============================================================================================
+
+
+Wed Mar 22 12:28:42 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  482.00 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+
+
+Sun Mar 26 23:59:31 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  482.00 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+
+
+Mon Mar 27 00:01:44 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  160.67 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+
+
+Mon Mar 27 00:19:48 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 204 bytes  received 37 bytes  160.67 bytes/sec
+total size is 5555  speedup is 23.05
+==============================================================================================
+
+
+Mon Mar 27 01:00:21 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+node03.myhost.local.crt
+node05.myhost.local.crt
+node06.myhost.local.crt
+ssl_data.txt
+ssl_data2.txt
+
+sent 4657 bytes  received 159 bytes  3210.67 bytes/sec
+total size is 10112  speedup is 2.10
+==============================================================================================
+
+
+Mon Mar 27 01:00:42 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+ssl_data2.txt
+
+sent 764 bytes  received 101 bytes  576.67 bytes/sec
+total size is 10112  speedup is 11.69
+==============================================================================================
+
+
+Mon Mar 27 01:03:24 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+ssl_data2.txt
+
+sent 764 bytes  received 101 bytes  1730.00 bytes/sec
+total size is 10112  speedup is 11.69
+==============================================================================================
+
+
+Mon Mar 27 01:04:37 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+ssl_data2.txt
+
+sent 764 bytes  received 101 bytes  576.67 bytes/sec
+total size is 10112  speedup is 11.69
+==============================================================================================
+
+
+Mon Mar 27 01:06:38 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+ssl_data2.txt
+
+sent 790 bytes  received 101 bytes  594.00 bytes/sec
+total size is 10268  speedup is 11.52
+==============================================================================================
+
+
+Mon Mar 27 01:06:58 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 510 bytes  received 61 bytes  380.67 bytes/sec
+total size is 10268  speedup is 17.98
+==============================================================================================
+
+
+Mon Mar 27 01:07:00 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 511 bytes  received 61 bytes  1144.00 bytes/sec
+total size is 10268  speedup is 17.95
+==============================================================================================
+
+
+Mon Mar 27 01:07:01 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 511 bytes  received 61 bytes  1144.00 bytes/sec
+total size is 10268  speedup is 17.95
+==============================================================================================
+
+
+Mon Mar 27 01:08:32 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 511 bytes  received 61 bytes  1144.00 bytes/sec
+total size is 10268  speedup is 17.95
+==============================================================================================
+
+
+Mon Mar 27 01:08:59 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 511 bytes  received 61 bytes  1144.00 bytes/sec
+total size is 10268  speedup is 17.95
+==============================================================================================
+
+
+Mon Mar 27 01:30:53 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+node03.myhost.local.crt
+node05.myhost.local.crt
+node06.myhost.local.crt
+ssl_data.txt
+ssl_data2.txt
+
+sent 4682 bytes  received 153 bytes  3223.33 bytes/sec
+total size is 10268  speedup is 2.12
+==============================================================================================
+sending incremental file list
+
+
+Mon Mar 27 01:34:10 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+ssl_data2.txt
+
+sent 790 bytes  received 59 bytes  1698.00 bytes/sec
+total size is 10268  speedup is 12.09
+==============================================================================================
+
+
+Mon Mar 27 01:36:34 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+ssl_data2.txt
+
+sent 774 bytes  received 83 bytes  1714.00 bytes/sec
+total size is 10268  speedup is 11.98
+==============================================================================================
+
+
+Mon Mar 27 01:37:49 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 511 bytes  received 61 bytes  381.33 bytes/sec
+total size is 10268  speedup is 17.95
+==============================================================================================
+
+
+Mon Mar 27 01:40:50 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 511 bytes  received 61 bytes  381.33 bytes/sec
+total size is 10268  speedup is 17.95
+==============================================================================================
+
+
+Mon Mar 27 01:44:41 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+
+sent 492 bytes  received 64 bytes  1112.00 bytes/sec
+total size is 8436  speedup is 15.17
+==============================================================================================
+
+
+Mon Mar 27 01:51:54 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+node03.myhost.local.crt
+node05.myhost.local.crt
+node06.myhost.local.crt
+ssl_data.txt
+
+sent 4401 bytes  received 110 bytes  9022.00 bytes/sec
+total size is 8436  speedup is 1.87
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 01:58:52 IST 2017
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  122.00 bytes/sec
+total size is 8436  speedup is 46.10
+==============================================================================================
+
+
+Mon Mar 27 01:58:54 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  1100.00 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 02:01:29 IST 2017
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  366.00 bytes/sec
+total size is 8436  speedup is 46.10
+==============================================================================================
+
+
+Mon Mar 27 02:01:30 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 488 bytes  received 61 bytes  366.00 bytes/sec
+total size is 8436  speedup is 15.37
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 02:02:27 IST 2017
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  122.00 bytes/sec
+total size is 8436  speedup is 46.10
+==============================================================================================
+
+
+Mon Mar 27 02:02:28 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  366.67 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 02:04:09 IST 2017
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  122.00 bytes/sec
+total size is 8436  speedup is 46.10
+==============================================================================================
+
+
+Mon Mar 27 02:04:11 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 493 bytes  received 61 bytes  1108.00 bytes/sec
+total size is 8436  speedup is 15.23
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 02:08:06 IST 2017
+
+
+Mon Mar 27 02:08:06 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  366.67 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 02:09:11 IST 2017
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  366.00 bytes/sec
+total size is 8436  speedup is 46.10
+==============================================================================================
+
+
+Mon Mar 27 02:09:12 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  1100.00 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+sending incremental file list
+
+sent 12 bytes  received 12 bytes  48.00 bytes/sec
+total size is 0  speedup is 0.00
+
+
+Mon Mar 27 02:10:12 IST 2017
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  366.00 bytes/sec
+total size is 8436  speedup is 46.10
+==============================================================================================
+
+
+Mon Mar 27 02:10:13 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  366.67 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+
+
+Mon Mar 27 02:14:34 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  366.67 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+sending incremental file list
+node03.myhost.local.crt
+
+sent 1021 bytes  received 31 bytes  2104.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Mon Mar 27 02:25:36 IST 2017
+sending incremental file list
+./
+node03.myhost.local.crt
+
+sent 1147 bytes  received 46 bytes  795.33 bytes/sec
+total size is 8436  speedup is 7.07
+==============================================================================================
+
+
+Mon Mar 27 02:25:38 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 489 bytes  received 61 bytes  1100.00 bytes/sec
+total size is 8436  speedup is 15.34
+==============================================================================================
+sending incremental file list
+node03.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Mon Mar 27 02:32:23 IST 2017
+sending incremental file list
+./
+node03.myhost.local.crt
+backup/
+backup/node03.myhost.local.csr
+
+sent 2064 bytes  received 69 bytes  4266.00 bytes/sec
+total size is 9490  speedup is 4.45
+==============================================================================================
+
+
+Mon Mar 27 02:32:24 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 556 bytes  received 62 bytes  412.00 bytes/sec
+total size is 9490  speedup is 15.36
+==============================================================================================
+sending incremental file list
+node05.myhost.local.crt
+
+sent 1021 bytes  received 31 bytes  2104.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Mon Mar 27 02:33:46 IST 2017
+sending incremental file list
+./
+node05.myhost.local.crt
+backup/
+backup/node05.myhost.local.csr
+
+sent 2089 bytes  received 69 bytes  4316.00 bytes/sec
+total size is 10544  speedup is 4.89
+==============================================================================================
+
+
+Mon Mar 27 02:33:47 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 581 bytes  received 62 bytes  428.67 bytes/sec
+total size is 10544  speedup is 16.40
+==============================================================================================
+
+
+Mon Mar 27 02:36:53 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 581 bytes  received 62 bytes  428.67 bytes/sec
+total size is 10544  speedup is 16.40
+==============================================================================================
+sending incremental file list
+node03.myhost.local.crt
+
+sent 1020 bytes  received 31 bytes  2102.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Tue Mar 28 15:27:31 IST 2017
+sending incremental file list
+./
+node03.myhost.local.crt
+backup/node03.myhost.local.csr
+
+sent 1283 bytes  received 78 bytes  544.40 bytes/sec
+total size is 10544  speedup is 7.75
+==============================================================================================
+
+
+Tue Mar 28 15:27:34 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 590 bytes  received 62 bytes  434.67 bytes/sec
+total size is 10544  speedup is 16.17
+==============================================================================================
+
+
+Tue Mar 28 15:28:53 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 591 bytes  received 62 bytes  435.33 bytes/sec
+total size is 10544  speedup is 16.15
+==============================================================================================
+sending incremental file list
+node03.myhost.local.crt
+
+sent 1021 bytes  received 31 bytes  2104.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Wed Mar 29 10:08:45 IST 2017
+sending incremental file list
+./
+node03.myhost.local.crt
+backup/
+backup/node03.myhost.local.csr_29-03-2017
+
+sent 2108 bytes  received 69 bytes  1451.33 bytes/sec
+total size is 11598  speedup is 5.33
+==============================================================================================
+
+
+Wed Mar 29 10:12:57 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 604 bytes  received 62 bytes  1332.00 bytes/sec
+total size is 11598  speedup is 17.41
+==============================================================================================
+sending incremental file list
+node05.myhost.local.crt
+
+sent 1022 bytes  received 31 bytes  2106.00 bytes/sec
+total size is 1298  speedup is 1.23
+
+
+Wed Mar 29 10:15:56 IST 2017
+sending incremental file list
+./
+node05.myhost.local.crt
+backup/
+backup/node05.myhost.local.csr_29-03-2017
+
+sent 2146 bytes  received 69 bytes  1476.67 bytes/sec
+total size is 12652  speedup is 5.71
+==============================================================================================
+
+
+Wed Mar 29 10:15:58 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 643 bytes  received 62 bytes  1410.00 bytes/sec
+total size is 12652  speedup is 17.95
+==============================================================================================
+
+
+Sat Apr  1 15:59:46 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 541 bytes  received 62 bytes  1206.00 bytes/sec
+total size is 11856  speedup is 19.66
+==============================================================================================
+
+
+Sat Apr  1 16:00:09 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 535 bytes  received 56 bytes  394.00 bytes/sec
+total size is 11856  speedup is 20.06
+==============================================================================================
+
+
+Sat Apr  1 16:08:32 IST 2017
+sending incremental file list
+./
+ssl_data.txt
+backup/
+
+sent 546 bytes  received 56 bytes  1204.00 bytes/sec
+total size is 11848  speedup is 19.68
+==============================================================================================
+
+
+Sat Apr  1 16:09:00 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 535 bytes  received 56 bytes  1182.00 bytes/sec
+total size is 11848  speedup is 20.05
+==============================================================================================
+
+
+Sat Apr  1 16:16:07 IST 2017
+sending incremental file list
+created directory /apps/scripts/ssl/data/node01
+./
+node01.myhost.local.crt
+node03.myhost.local.crt
+node05.myhost.local.crt
+node06.myhost.local.crt
+ssl_data.txt
+backup/
+backup/node03.myhost.local.csr
+backup/node03.myhost.local.csr_29-03-2017
+backup/node05.myhost.local.csr
+backup/node05.myhost.local.csr_29-03-2017
+
+sent 7824 bytes  received 190 bytes  5342.67 bytes/sec
+total size is 11848  speedup is 1.48
+==============================================================================================
+
+
+Sat Apr  1 16:19:25 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 534 bytes  received 56 bytes  393.33 bytes/sec
+total size is 11820  speedup is 20.03
+==============================================================================================
+sending incremental file list
+node01.myhost.local.crt
+
+sent 1019 bytes  received 31 bytes  2100.00 bytes/sec
+total size is 1298  speedup is 1.24
+
+
+Sat Apr  1 16:21:29 IST 2017
+sending incremental file list
+./
+node01.myhost.local.crt
+backup/
+backup/node01.myhost.local.csr_01-04-2017
+
+sent 2187 bytes  received 69 bytes  1504.00 bytes/sec
+total size is 12874  speedup is 5.71
+==============================================================================================
+
+
+Sat Apr  1 16:21:38 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 571 bytes  received 56 bytes  1254.00 bytes/sec
+total size is 12874  speedup is 20.53
+==============================================================================================
+
+
+Sat Apr  1 16:30:54 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 574 bytes  received 56 bytes  1260.00 bytes/sec
+total size is 12874  speedup is 20.43
+==============================================================================================
+
+
+Sat Apr  1 16:31:14 IST 2017
+sending incremental file list
+ssl_data.txt
+
+sent 570 bytes  received 56 bytes  417.33 bytes/sec
+total size is 12874  speedup is 20.57
+==============================================================================================

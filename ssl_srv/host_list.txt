@@ -1,0 +1,4 @@
+node05.myhost.local
+node03.myhost.local
+node06.myhost.local
+node04.myhost.local

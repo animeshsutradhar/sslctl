@@ -1,0 +1,533 @@
+sending incremental file list
+./
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 502 bytes  received 55 bytes  1114.00 bytes/sec
+total size is 726  speedup is 1.30
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 499 bytes  received 52 bytes  1102.00 bytes/sec
+total size is 726  speedup is 1.32
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 499 bytes  received 52 bytes  1102.00 bytes/sec
+total size is 726  speedup is 1.32
+sending incremental file list
+./
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 502 bytes  received 55 bytes  1114.00 bytes/sec
+total size is 726  speedup is 1.30
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 499 bytes  received 52 bytes  1102.00 bytes/sec
+total size is 726  speedup is 1.32
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 499 bytes  received 52 bytes  1102.00 bytes/sec
+total size is 726  speedup is 1.32
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 499 bytes  received 52 bytes  1102.00 bytes/sec
+total size is 726  speedup is 1.32
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 499 bytes  received 52 bytes  1102.00 bytes/sec
+total size is 726  speedup is 1.32
+sending incremental file list
+node01/
+node01/node01.myhost.local.crt
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1503 bytes  received 74 bytes  3154.00 bytes/sec
+total size is 2024  speedup is 1.28
+sending incremental file list
+node01/ssl_data.txt
+node02/
+node02/node02.myhost.local.crt
+node02/ssl_data.txt
+
+sent 1540 bytes  received 74 bytes  3228.00 bytes/sec
+total size is 3322  speedup is 2.06
+sending incremental file list
+./
+node01/
+node02/
+
+sent 207 bytes  received 35 bytes  484.00 bytes/sec
+total size is 3322  speedup is 13.73
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 561 bytes  received 52 bytes  1226.00 bytes/sec
+total size is 3322  speedup is 5.42
+sending incremental file list
+node01/
+node01/node01.myhost.local.crt
+node01/ssl_data.txt
+node02/
+node02/node02.myhost.local.crt
+node02/ssl_data.txt
+
+sent 2512 bytes  received 96 bytes  5216.00 bytes/sec
+total size is 3322  speedup is 1.27
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 561 bytes  received 52 bytes  1226.00 bytes/sec
+total size is 3322  speedup is 5.42
+sending incremental file list
+node01/
+node01/node01.myhost.local.crt
+node01/ssl_data.txt
+node02/
+node02/node02.myhost.local.crt
+node02/ssl_data.txt
+
+sent 2514 bytes  received 96 bytes  5220.00 bytes/sec
+total size is 3322  speedup is 1.27
+sending incremental file list
+node01/
+node01/node03.myhost.local.crt
+node01/node05.myhost.local.crt
+node01/node06.myhost.local.crt
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 3569 bytes  received 112 bytes  7362.00 bytes/sec
+total size is 7216  speedup is 1.96
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 650 bytes  received 52 bytes  1404.00 bytes/sec
+total size is 7216  speedup is 10.28
+sending incremental file list
+
+sent 275 bytes  received 14 bytes  578.00 bytes/sec
+total size is 7216  speedup is 24.97
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 650 bytes  received 52 bytes  1404.00 bytes/sec
+total size is 7216  speedup is 10.28
+sending incremental file list
+
+sent 275 bytes  received 14 bytes  578.00 bytes/sec
+total size is 7216  speedup is 24.97
+sending incremental file list
+node01/
+node01/node06.myhost.local.crt
+
+sent 1256 bytes  received 36 bytes  2584.00 bytes/sec
+total size is 7216  speedup is 5.59
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 654 bytes  received 52 bytes  1412.00 bytes/sec
+total size is 7216  speedup is 10.22
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 654 bytes  received 52 bytes  1412.00 bytes/sec
+total size is 7216  speedup is 10.22
+sending incremental file list
+
+sent 279 bytes  received 14 bytes  586.00 bytes/sec
+total size is 7216  speedup is 24.63
+sending incremental file list
+node02/
+node02/node02.myhost.local.crt
+
+sent 1256 bytes  received 36 bytes  2584.00 bytes/sec
+total size is 7216  speedup is 5.59
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 654 bytes  received 52 bytes  1412.00 bytes/sec
+total size is 7216  speedup is 10.22
+sending incremental file list
+node01/
+node01/node05.myhost.local.crt
+
+sent 1252 bytes  received 36 bytes  2576.00 bytes/sec
+total size is 7216  speedup is 5.60
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 650 bytes  received 52 bytes  1404.00 bytes/sec
+total size is 7216  speedup is 10.28
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 650 bytes  received 52 bytes  1404.00 bytes/sec
+total size is 7216  speedup is 10.28
+sending incremental file list
+node02/
+node02/node02.myhost.local.crt
+
+sent 1249 bytes  received 36 bytes  2570.00 bytes/sec
+total size is 7216  speedup is 5.62
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 650 bytes  received 52 bytes  1404.00 bytes/sec
+total size is 7216  speedup is 10.28
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 650 bytes  received 52 bytes  1404.00 bytes/sec
+total size is 7216  speedup is 10.28
+sending incremental file list
+node02/
+node02/node01.myhost.local.crt
+node02/node03.myhost.local.crt
+node02/node05.myhost.local.crt
+node02/node06.myhost.local.crt
+node02/ssl_data.txt
+node02/ssl_data2.txt
+
+sent 4878 bytes  received 131 bytes  10018.00 bytes/sec
+total size is 16677  speedup is 3.33
+sending incremental file list
+node02/ssl_data.txt
+
+sent 726 bytes  received 33 bytes  1518.00 bytes/sec
+total size is 16794  speedup is 22.13
+sending incremental file list
+node02/ssl_data.txt
+
+sent 723 bytes  received 33 bytes  1512.00 bytes/sec
+total size is 16794  speedup is 22.21
+sending incremental file list
+node02/ssl_data.txt
+
+sent 723 bytes  received 33 bytes  1512.00 bytes/sec
+total size is 16794  speedup is 22.21
+sending incremental file list
+node02/
+node02/ssl_data.txt
+node02/ssl_data2.txt
+
+sent 985 bytes  received 55 bytes  2080.00 bytes/sec
+total size is 16310  speedup is 15.68
+sending incremental file list
+
+sent 415 bytes  received 14 bytes  858.00 bytes/sec
+total size is 16310  speedup is 38.02
+sending incremental file list
+node01/
+node01/ssl_data.txt
+node01/ssl_data2.txt
+node02/ssl_data.txt
+
+sent 1208 bytes  received 74 bytes  2564.00 bytes/sec
+total size is 13999  speedup is 10.92
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 944 bytes  received 52 bytes  1992.00 bytes/sec
+total size is 13999  speedup is 14.06
+sending incremental file list
+node01/ssl_data.txt
+node02/
+node02/node02.myhost.local.crt
+node02/node04.myhost.local.crt
+node02/node08.myhost.local.crt
+node02/ssl_data.txt
+
+sent 3921 bytes  received 112 bytes  8066.00 bytes/sec
+total size is 16595  speedup is 4.11
+sending incremental file list
+node01/
+node01/node01.myhost.local.crt
+node01/node03.myhost.local.crt
+node01/node05.myhost.local.crt
+node01/node06.myhost.local.crt
+node01/ssl_data.txt
+node01/ssl_data2.txt
+node02/
+node02/node02.myhost.local.crt
+node02/node04.myhost.local.crt
+node02/node08.myhost.local.crt
+node02/ssl_data.txt
+
+sent 8076 bytes  received 210 bytes  16572.00 bytes/sec
+total size is 16595  speedup is 2.00
+sending incremental file list
+node01/
+node01/node01.myhost.local.crt
+node01/node03.myhost.local.crt
+node01/node05.myhost.local.crt
+node01/node06.myhost.local.crt
+node01/ssl_data.txt
+node02/
+node02/node02.myhost.local.crt
+node02/node04.myhost.local.crt
+node02/node08.myhost.local.crt
+node02/ssl_data.txt
+
+sent 7793 bytes  received 191 bytes  15968.00 bytes/sec
+total size is 14763  speedup is 1.85
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 976 bytes  received 52 bytes  2056.00 bytes/sec
+total size is 14763  speedup is 14.36
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 975 bytes  received 52 bytes  2054.00 bytes/sec
+total size is 14763  speedup is 14.37
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 976 bytes  received 52 bytes  2056.00 bytes/sec
+total size is 14763  speedup is 14.36
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 979 bytes  received 52 bytes  2062.00 bytes/sec
+total size is 14763  speedup is 14.32
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 975 bytes  received 52 bytes  2054.00 bytes/sec
+total size is 14763  speedup is 14.37
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 975 bytes  received 52 bytes  2054.00 bytes/sec
+total size is 14763  speedup is 14.37
+sending incremental file list
+
+sent 340 bytes  received 14 bytes  708.00 bytes/sec
+total size is 14763  speedup is 41.70
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 978 bytes  received 52 bytes  2060.00 bytes/sec
+total size is 14763  speedup is 14.33
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 977 bytes  received 52 bytes  2058.00 bytes/sec
+total size is 14763  speedup is 14.35
+sending incremental file list
+node01/
+node01/node03.myhost.local.crt
+
+sent 1316 bytes  received 36 bytes  2704.00 bytes/sec
+total size is 14763  speedup is 10.92
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 981 bytes  received 52 bytes  2066.00 bytes/sec
+total size is 14763  speedup is 14.29
+sending incremental file list
+node01/
+node01/node03.myhost.local.crt
+node01/backup/
+node01/backup/node03.myhost.local.csr
+
+sent 2235 bytes  received 59 bytes  1529.33 bytes/sec
+total size is 15817  speedup is 6.89
+sending incremental file list
+node01/ssl_data.txt
+node02/
+node02/ssl_data.txt
+node02/backup/
+
+sent 1081 bytes  received 60 bytes  2282.00 bytes/sec
+total size is 15817  speedup is 13.86
+sending incremental file list
+node01/
+node01/node05.myhost.local.crt
+node01/backup/
+node01/backup/node05.myhost.local.csr
+
+sent 2288 bytes  received 60 bytes  4696.00 bytes/sec
+total size is 16871  speedup is 7.19
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1106 bytes  received 54 bytes  2320.00 bytes/sec
+total size is 16871  speedup is 14.54
+sending incremental file list
+node02/
+node02/node02.myhost.local.crt
+node02/backup/
+node02/backup/node02.myhost.local.csr
+
+sent 2325 bytes  received 60 bytes  4770.00 bytes/sec
+total size is 17925  speedup is 7.52
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1146 bytes  received 54 bytes  2400.00 bytes/sec
+total size is 17925  speedup is 14.94
+sending incremental file list
+node01/
+node01/node03.myhost.local.crt
+node01/backup/node03.myhost.local.csr
+
+sent 2326 bytes  received 57 bytes  4766.00 bytes/sec
+total size is 17925  speedup is 7.52
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1155 bytes  received 54 bytes  2418.00 bytes/sec
+total size is 17925  speedup is 14.83
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1155 bytes  received 54 bytes  2418.00 bytes/sec
+total size is 17925  speedup is 14.83
+sending incremental file list
+node01/
+node01/node03.myhost.local.crt
+node01/backup/
+node01/backup/node03.myhost.local.csr_29-03-2017
+node02/
+node02/node04.myhost.local.crt
+node02/backup/
+node02/backup/node04.myhost.local.csr_29-03-2017
+
+sent 4213 bytes  received 104 bytes  8634.00 bytes/sec
+total size is 20033  speedup is 4.64
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1218 bytes  received 54 bytes  2544.00 bytes/sec
+total size is 20033  speedup is 15.75
+sending incremental file list
+node01/
+node01/node05.myhost.local.crt
+node01/backup/
+node01/backup/node05.myhost.local.csr_29-03-2017
+
+sent 2424 bytes  received 60 bytes  4968.00 bytes/sec
+total size is 21087  speedup is 8.49
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1257 bytes  received 54 bytes  2622.00 bytes/sec
+total size is 21087  speedup is 16.08
+sending incremental file list
+node01/
+node01/node02.myhost.local.crt
+node01/node04.myhost.local.crt
+node01/node08.myhost.local.crt
+node01/ssl_data.txt
+node01/backup/
+node01/backup/node02.myhost.local.csr
+node01/backup/node04.myhost.local.csr_29-03-2017
+
+sent 5573 bytes  received 136 bytes  11418.00 bytes/sec
+total size is 25675  speedup is 4.50
+sending incremental file list
+./
+node01/
+node01/ssl_data.txt
+node01/backup/
+node02/ssl_data.txt
+
+sent 1030 bytes  received 63 bytes  2186.00 bytes/sec
+total size is 19680  speedup is 18.01
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1011 bytes  received 54 bytes  2130.00 bytes/sec
+total size is 19631  speedup is 18.43
+sending incremental file list
+node01/
+node01/node01.myhost.local.crt
+node01/backup/
+node01/backup/node01.myhost.local.csr_01-04-2017
+
+sent 2465 bytes  received 60 bytes  5050.00 bytes/sec
+total size is 20685  speedup is 8.19
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1056 bytes  received 54 bytes  2220.00 bytes/sec
+total size is 20685  speedup is 18.64
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1059 bytes  received 54 bytes  2226.00 bytes/sec
+total size is 20685  speedup is 18.58
+sending incremental file list
+node01/ssl_data.txt
+node02/ssl_data.txt
+
+sent 1055 bytes  received 54 bytes  2218.00 bytes/sec
+total size is 20685  speedup is 18.65
